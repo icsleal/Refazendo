@@ -1,0 +1,33 @@
+body{
+    background: rgb(188, 81, 170);
+}
+ section{
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    box-shadow: 5px 5px 13px;
+    border-radius: 13px;
+    background: white;
+ }
+ div{
+    text-align: center;
+ }
+ p{
+    text-align: center;
+    color: white;
+    size: 16rem;
+}
+h1{
+    text-align: center;
+    color: white;
+    size: 16rem;
+}
+
+footer{
+    color:white;
+    text-align: center;
+    size: 20px;
+}
+#class{
+    width: 20px;
+}
